@@ -1,0 +1,5 @@
+/Users/Ivan/Desktop/mi-primer-repositorio-ivanarturosantivanezvela/Proyectopruebaivan/Proyectopruebaivan/bin/Debug/Proyectopruebaivan.exe
+/Users/Ivan/Desktop/mi-primer-repositorio-ivanarturosantivanezvela/Proyectopruebaivan/Proyectopruebaivan/bin/Debug/Proyectopruebaivan.pdb
+/Users/Ivan/Desktop/mi-primer-repositorio-ivanarturosantivanezvela/Proyectopruebaivan/Proyectopruebaivan/obj/Debug/Proyectopruebaivan.csprojAssemblyReference.cache
+/Users/Ivan/Desktop/mi-primer-repositorio-ivanarturosantivanezvela/Proyectopruebaivan/Proyectopruebaivan/obj/Debug/Proyectopruebaivan.exe
+/Users/Ivan/Desktop/mi-primer-repositorio-ivanarturosantivanezvela/Proyectopruebaivan/Proyectopruebaivan/obj/Debug/Proyectopruebaivan.pdb
