@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estasieslaprueba", "Estasieslaprueba.csproj", "{BB5F8B8C-0536-4A7E-A849-A0EC3490DA94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB5F8B8C-0536-4A7E-A849-A0EC3490DA94}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{BB5F8B8C-0536-4A7E-A849-A0EC3490DA94}.Debug|anycpu.Build.0 = Debug|anycpu
+		{BB5F8B8C-0536-4A7E-A849-A0EC3490DA94}.Release|anycpu.ActiveCfg = Release|anycpu
+		{BB5F8B8C-0536-4A7E-A849-A0EC3490DA94}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
